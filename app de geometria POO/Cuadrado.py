@@ -3,7 +3,7 @@ class Cuadrado:
     def __init__(self,lado):
       self.lado = lado
 #Metodos
-//Isaac se la come doblada josimar lo hace el doble mau mau
+//Isaac se la come doblada josimar lo hace el doble mau mau hola por dos
 
     def calcular_area(self):
         return self.lado ** 2 
